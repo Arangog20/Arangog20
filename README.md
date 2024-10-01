@@ -49,6 +49,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arangog20/Arangog20/output/snake.svg" alt="Snake animation" />
-
 ###
